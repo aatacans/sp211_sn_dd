@@ -27,4 +27,3 @@ git clone https://github.com/aatacans/sp211_sn_dd.git
 cd sp211_sn_dd
 pip install -e .[dev]
 pytest
-g
